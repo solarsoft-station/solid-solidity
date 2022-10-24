@@ -7,4 +7,4 @@ The content of this repo includes solidity best practices, code quality tools, d
 - [Design Patterns](design-patterns/Readme.md)
 - [Known attack patterns](known-attack-patterns/Readme.md)
 
-Cheers to [Wissal Haji for the amazing insigths and exerpts](https://github.com/wissalHaji/solidity-coding-advices)
+Cheers to [Wissal Haji](https://github.com/wissalHaji/solidity-coding-advices) for the amazing insigths and exerpts.
